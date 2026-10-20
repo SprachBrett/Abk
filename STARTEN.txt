@@ -1,0 +1,5 @@
+1) Python 3 installieren.
+2) Im App-Ordner ausführen: pip install python-docx
+3) Start: python app.py
+4) Browser öffnen: http://127.0.0.1:8765
+Vorlage.docx muss neben app.py und index.html liegen.
